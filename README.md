@@ -2,7 +2,9 @@
 
 An application that tracks a users budget, both online and offline. Users can add expenses and deposits to their budget - with or without internet. Offline activity is stored and once connected to the internet, the total will be populated.
 
-[https://financial-budget.herokuapp.com/](View Deployed Application)
+<img src="https://github.com/nova-codes/budget-tracker/blob/main/public/preview.png" width="450px" height="450px" />
+
+[View Deployed Application](https://financial-budget.herokuapp.com/)
 
 ## User Story
 
@@ -16,20 +18,20 @@ A fast, easy, and lightweight way to track their money and expenses, not depende
 
 ## Technology Used
 
-[*] HTML
-[*] CSS
-[*] Node.js
-[*] Express
-[*] MongoDB
-[*] Mongoose
-[*] morgan
-[*] compression
-[*] lite-server
+- HTML
+- CSS
+- Node.js
+- Express
+- MongoDB
+- Mongoose
+- morgan
+- compression
+- lite-server
 
 ## Installation and Usage
 To open via the command line:
 
-[1] Navigate to file directory on your local machine.
-[1] Run npm install
-[1] Run npm start
-[1] The app should be running on: http://localhost:3000/
+1. Navigate to file directory on your local machine.
+2. Run `npm install`
+3. Run `npm start`
+4. The app should be running on: `http://localhost:3000/`
